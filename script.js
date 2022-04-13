@@ -13,3 +13,4 @@ function maratonKenzie(firstPlace, secondPlace, lastPlace){
 
 console.log(maratonKenzie('Rafael', 'Daniel', 'Manoel'))
 console.log(maratonKenzie('Rafael', 'Manoel', 'Daniel'))
+
