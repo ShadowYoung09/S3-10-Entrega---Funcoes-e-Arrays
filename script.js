@@ -10,3 +10,6 @@ function maratonKenzie(firstPlace, secondPlace, lastPlace){
     }
     return posicao
 }
+
+console.log(maratonKenzie('Rafael', 'Daniel', 'Manoel'))
+console.log(maratonKenzie('Rafael', 'Manoel', 'Daniel'))
